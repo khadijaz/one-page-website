@@ -1,6 +1,6 @@
 <?php 
 echo 'Hello world';
-
+echo 'chi haja';
 ?>
 <!DOCTYPE html>
 <html lang="en">
